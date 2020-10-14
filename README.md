@@ -4,8 +4,8 @@
 - [ Description. ](#desc)
 - [ Usage.](#usage)
 - [ Tutorial](#tutorial)
-* [ How to add a Google Font](#add_font)
-* [ How to remove a Google Font](#rm_font)
+    * [ How to add a Google Font](#add_font)
+    * [ How to remove a Google Font](#rm_font)
 - [ FAQ](#faq)
 
 <a name="desc"></a>
