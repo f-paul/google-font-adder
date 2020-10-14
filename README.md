@@ -1,6 +1,6 @@
 # gfont-adder
 
-# Description
+## Description
 A wordpress plugin that allows you to add any google font from its link.
 
 ![](https://i.imgur.com/47HRVEh.png)
@@ -11,7 +11,7 @@ The plugin is translated into **English** and **French**.
 
 [TOC]
 
-# Usage
+## Usage
 
 
 1. Install the zip file from the plugin
@@ -25,7 +25,7 @@ The plugin is translated into **English** and **French**.
 
 4. Enjoy
 
-# Tutorial
+## Tutorial
 
 How to Add a font ?
 ---
