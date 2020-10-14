@@ -1,5 +1,13 @@
 # gfont-adder
 
+## Table of contents
+* [ Description. ](#desc)
+* [ Usage.](#usage)
+* [ Tutorial](#tutorial)
+** [ How to add a Google Font](#add_font)
+** [ How to remove a Google Font](#rm_font)
+* [ FAQ](#faq)
+
 <a name="desc"></a>
 ## Description
 A wordpress plugin that allows you to add any google font from its link.
@@ -8,10 +16,6 @@ A wordpress plugin that allows you to add any google font from its link.
 
 This is my first wordpress plugin and first experience with php. I hope you will find it useful.
 The plugin is translated into **English** and **French**.
-
-
-1. [ Description. ](#desc)
-2. [ Usage.](#usage)
 
 
 <a name="usage"></a>
@@ -29,8 +33,10 @@ The plugin is translated into **English** and **French**.
 
 4. Enjoy
 
+<a name="tutorial"></a>
 ## Tutorial
 
+<a name="add_font"></a>
 How to Add a font ?
 ---
 
@@ -46,6 +52,7 @@ How to Add a font ?
 4. if the font has been correctly added, its name should appear underneath in 'Font Added' with the corresponding typography
 > ![](https://i.imgur.com/b0ZRotX.png)
 
+<a name="rm_font"></a>
 How to Remove a font ?
 ---
 1. Go to the "Remove Google Font" field and select the font you want to delete
@@ -57,7 +64,7 @@ How to Remove a font ?
 > ![](https://i.imgur.com/fzdXNuK.png)
 
 
-
+<a name="faq"></a>
 ## Appendix and FAQ
 
 :::info
