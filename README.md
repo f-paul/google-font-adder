@@ -16,7 +16,7 @@ A wordpress plugin that allows you to add any google font from its link.
 
 This is my first wordpress plugin and first experience with php. I hope you will find it useful, don't forget to star it if you like it.
 
-Special thanks to [@vincent-hd](https://github.com/vincent-hd)
+Special thanks to <a href="https://github.com/vincent-hd" target="_blank">@vincent-hd</a>
 
 The plugin is translated into **English** and **French**.
 
