@@ -1,8 +1,4 @@
 # gfont-adder
----
-title: 'Add any Google Font to your text editor'
-disqus: hackmd
----
 
 # Description
 A wordpress plugin that allows you to add any google font from its link.
