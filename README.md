@@ -9,7 +9,8 @@ This is my first wordpress plugin and first experience with php. I hope you will
 The plugin is translated into **English** and **French**.
 
 
-[TOC]
+* [Description] (#Description)
+* 
 
 ## Usage
 
