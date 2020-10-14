@@ -70,9 +70,7 @@ How to Remove a font ?
 <a name="faq"></a>
 ## Appendix and FAQ
 
-:::info
 **Find this document incomplete?** Leave a comment!
-:::
 
 ###### tags: `Tiny Editor MCE` `Google Font Wordpress` `Google Font` 'Google Font WPBakery' `Google Font Visual Composer`
 
