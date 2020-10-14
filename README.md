@@ -14,7 +14,7 @@ A wordpress plugin that allows you to add any google font from its link.
 
 ![](https://i.imgur.com/47HRVEh.png)
 
-This is my first wordpress plugin and first experience with php. I hope you will find it useful.
+This is my first wordpress plugin and first experience with php. I hope you will find it useful, don't forget to star it if you like it.
 The plugin is translated into **English** and **French**.
 
 
