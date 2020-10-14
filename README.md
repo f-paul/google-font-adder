@@ -1,8 +1,8 @@
 # gfont-adder
 
 ## Table of contents
-- [ Description. ](#desc)
-- [ Usage.](#usage)
+- [ Description ](#desc)
+- [ Usage](#usage)
 - [ Tutorial](#tutorial)
     * [ How to add a Google Font](#add_font)
     * [ How to remove a Google Font](#rm_font)

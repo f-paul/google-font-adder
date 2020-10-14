@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Add any Google Font to text editor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-14 07:23+0000\n"
+"PO-Revision-Date: 2020-10-14 07:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: add_gfont.php:34
+msgid "Add any GFont to Editor"
+msgstr "Ajouter n'importe quelle police google à votre éditeur"
+
+#: add_gfont.php:35
+msgid "Add Google Font"
+msgstr "Ajouter une police Google"
+
+#: add_gfont.php:60
+msgid "Google Font Control Panel"
+msgstr "Panneau de contrôle des polices Google"
+
+#: add_gfont.php:67
+msgid "Add Google Font URL  :"
+msgstr "Ajouter l'URL de la police Google :"
+
+#: add_gfont.php:70
+msgid "Put URL"
+msgstr "Mettre l'URL"
+
+#: add_gfont.php:71
+msgid "Don't know where you can find the url ?"
+msgstr "Vous ne savez pas où vous pouvez trouver l'url ?"
+
+#: add_gfont.php:71
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: add_gfont.php:71
+msgid "and follow"
+msgstr "et suivre"
+
+#: add_gfont.php:71
+msgid "this tutorial"
+msgstr "ce tutoriel"
+
+#: add_gfont.php:76
+msgid "Remove font  :"
+msgstr "Supprimer la police :"
+
+#: add_gfont.php:83
+msgid "Select the font you want to delete, leave blank to not delete anything"
+msgstr ""
+"Sélectionnez la police que vous souhaitez supprimer, laissez un blanc pour "
+"ne rien supprimer"
+
+#: add_gfont.php:131
+msgid "Font already added"
+msgstr "Police déjà ajoutée"
+
+#: add_gfont.php:138
+msgid "Font was added"
+msgstr "La police a été ajoutée"
+
+#: add_gfont.php:140
+msgid ""
+"Enter a valid URL (ex : https://fonts.googleapis.com/css2?"
+"family=Piazzolla&display=swap)"
+msgstr ""
+"Entrez une URL valide (ex : https://fonts.googleapis.com/css2?"
+"family=Piazzolla&display=swap)"
+
+#: add_gfont.php:159
+msgid "Font added :"
+msgstr "Police ajoutée :"
+
+#. Name of the plugin
+msgid "Add any Google Font to text editor"
+msgstr "Ajouter une police Google à l'éditeur de texte"
+
+#. Description of the plugin
+msgid ""
+"Add the Google font link of your choice and it will be automatically added "
+"in your text editor."
+msgstr ""
+"Ajoutez le lien de la police Google de votre choix et il sera "
+"automatiquement ajouté dans votre éditeur de texte."
+
+#. URI of the plugin
+msgid "https://paulfermey.fr/"
+msgstr "https://paulfermey.fr/"
+
+#. Author of the plugin
+msgid "Paul FERMEY for Rouen Webmaster"
+msgstr "Paul FERMEY pour Rouen Webmaster"
+
+#. Author URI of the plugin
+msgid "https://rouen-webmaster.com"
+msgstr "https://rouen-webmaster.com"
