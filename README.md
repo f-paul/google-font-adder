@@ -1,5 +1,6 @@
 # gfont-adder
 
+<a name="desc"></a>
 ## Description
 A wordpress plugin that allows you to add any google font from its link.
 
@@ -9,8 +10,11 @@ This is my first wordpress plugin and first experience with php. I hope you will
 The plugin is translated into **English** and **French**.
 
 
-__TOC__
+1. [ Description. ](#desc)
+2. [ Usage.](#usage)
 
+
+<a name="usage"></a>
 ## Usage
 
 
